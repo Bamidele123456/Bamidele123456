@@ -1,10 +1,70 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3D00F7FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DHi%252C%2BI%27m%2BOriku%2BBamidele%2B%25F0%259F%2591%258B%3BBackend%2BDeveloper%2B%2526%2BAutomation%2BExpert%3BBuilding%2Bintelligent%2BSaaS%2B%2526%2Bbots" alt="Typing SVG" /></a></p><h3 align="center">Based in Nigeria 🇳🇬</h3><p align="center"><a href="https://linkedin.com/in/precious-oriku" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a><a href="https://twitter.com/bamideleor69923" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a><a href="https://instagram.com/bamideleprex" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a></p>👨‍💻 About Meclass BamideleOriku:
-    def __init__(self):
-        self.role = "Backend Developer & Automation Expert"
-        self.location = "Nigeria"
-        self.focus = ["Process Automation", "Backend Architecture", "SaaS Solutions"]
-        self.stack = ["C#", "Python", "Node.js", "Shopify"]
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=494BF6&width=435&lines=Welcome+my+name+is+Oriku+Bamidele.;I+am+a+Backend+Developer." alt="Typing SVG" /></a>
+</h1>
 
-    def currently_building(self):
-        return "InsightFlow and AI-powered automation bots."
-🛠 Languages and ToolsBackend & Databases<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2523-%2523239120.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/.NET-5C2D91%3Fstyle%3Dfor-the-badge%26logo%3D.net%26logoColor%3Dwhite" alt=".NET" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3670A0%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54" alt="Python" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/django-%2523092E20.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/flask-%2523000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/express.js-%2523404d59.svg%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3D%252361DAFB" alt="Express" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/nestjs-%2523E0234E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnestjs%26logoColor%3Dwhite" alt="NestJS" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/redis-%2523DD0031.svg%3Fstyle%3Dfor-the-badge%26logo%3Dredis%26logoColor%3Dwhite" alt="Redis" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/sqlite-%252307405e.svg%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="SQLite" /></p>Frontend & Mobile<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JavaScript" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/typescript-%2523007ACC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Next-black%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" alt="Next.js" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/react_native-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React Native" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/tailwindcss-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/bootstrap-%25238511FA.svg%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Android-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite" alt="Android" /></p>Cloud, DevOps & Tools<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-%2523FF9900.svg%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/azure-%25230072C6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" alt="Azure" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/GoogleCloud-%25234285F4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="GCP" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/docker-%25230db7ed.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/nginx-%2523009639.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnginx%26logoColor%3Dwhite" alt="Nginx" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/heroku-%2523430098.svg%3Fstyle%3Dfor-the-badge%26logo%3Dheroku%26logoColor%3Dwhite" alt="Heroku" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-039BE5%3Fstyle%3Dfor-the-badge%26logo%3DFirebase%26logoColor%3Dwhite" alt="Firebase" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Zapier-%2523FF4F00.svg%3Fstyle%3Dfor-the-badge%26logo%3DZapier%26logoColor%3Dwhite" alt="Zapier" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/figma-%2523F24E1E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite" alt="Figma" /></p>Data Science & ML<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg%3Fstyle%3Dfor-the-badge%26logo%3DTensorFlow%26logoColor%3Dwhite" alt="TensorFlow" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg%3Fstyle%3Dfor-the-badge%26logo%3DPyTorch%26logoColor%3Dwhite" alt="PyTorch" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-%2523F7931E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-Learn" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/pandas-%2523150458.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/opencv-%2523white.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/MATLAB-%2523D12128.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmatlab%26logoColor%3Dwhite" alt="MATLAB" /></p>📊 GitHub Stats<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dbamidele123456%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue" alt="bamidele123456" /></p><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dbamidele123456%26theme%3Ddracula%26no-bg%3Dtrue%26margin-w%3D15" alt="Trophies" /></a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <b>Hi there! I'm a Backend Engineer & Automation Specialist based in Nigeria 🇳🇬</b>
+</p>
+
+<p align="center">
+  I specialize in architecting scalable backend systems, automating complex workflows, and building responsive, full-stack applications. From multi-tenant SaaS platforms and real-time APIs to modern user interfaces, I love solving hard data problems and shipping robust products.
+</p>
+
+<br>
+
+### 👨🏽‍💻 What I do:
+* ⚙️ **Backend Development:** Building robust microservices and real-time APIs using Node.js, Python, and C# (.NET).
+* 🎨 **Frontend Development:** Crafting fast, responsive, and pixel-perfect user interfaces with React, Next.js, and TypeScript.
+* 🤖 **AI & Automation:** Developing intelligent chatbots, integrating OpenAI/LLMs, and setting up complex workflows (Botpress, n8n, Make.com).
+* 🗄️ **Databases:** Designing normalized schemas and managing data flow with PostgreSQL, MySQL, and MongoDB.
+* ☁️ **DevOps & Cloud:** Containerizing applications with Docker and deploying to AWS.
+
+<br>
+
+<h3 align="center">💻 Languages:</h3>
+<p align="center">
+  <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+  <a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+</p>
+
+<h3 align="center">🌐 Frontend & UI:</h3>
+<p align="center">
+  <a target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+  <a target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>
+  <a target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+</p>
+
+<h3 align="center">⚙️ Backend, Databases & Tools:</h3>
+<p align="center">
+  <a target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/></a>
+  <a target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
+  <a target="_blank"><img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <br>
+  <a target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+</p>
+
+<br>
+
+<h3 align="center">📫 Let's Connect</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/precious-oriku" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/Bamidele123456" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://wordpress-portfolio-two.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Vercel&logoColor=white" /></a>
+  <a href="mailto:bamideleprecious85@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <text><i>"First, solve the problem. Then, write the code."<br> — John Johnson</i></text>
+</p>
