@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>🟢 Available for contract work — Backend APIs, AI Automation & Workflow Integration</b><br>
-  <a href="https://calendly.com/bamideleprecious85" target="_blank"><img alt="Book a Call" src="https://img.shields.io/badge/Book%20a%20Call-4CAF50?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+  <a href="https://calendly.com/bamideleprecious85/30min" target="_blank"><img alt="Book a Call" src="https://img.shields.io/badge/Book%20a%20Call-4CAF50?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
   <a href="mailto:bamideleprecious85@gmail.com" target="_blank"><img alt="Email Me" src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -35,11 +35,9 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **AI Workflow Bot** | Automated lead capture and CRM sync using n8n + OpenAI | n8n, OpenAI, Node.js | [View →](https://github.com/Bamidele123456) |
-| **Multi-tenant SaaS API** | REST API with role-based auth for a SaaS platform | Node.js, PostgreSQL, Docker | [View →](https://github.com/Bamidele123456) |
-| **Chatbot Integration** | Botpress chatbot integrated with a live business workflow | Botpress, Make.com, Webhooks | [View →](https://github.com/Bamidele123456) |
-
-> 📌 *Replace the links above with your real project repos. Each repo should have a README with: the problem, your solution, and the outcome.*
+| **E Commerce Website** | E commerce website | Javascript(React) HTML CSS | [View →]([https://github.com/Bamidele123456](https://github.com/Bamidele123456/E-commerce-site.git)) |
+| **Image Generation Website** | A webapp that generated images based on your prompts| HTML, Python, Open AI | [View →]([https://github.com/Bamidele123456](https://github.com/Bamidele123456/DALLE-chatbot.git)) |
+| **Blockchain** | A Test Blockchain where you can make transaction and see how thw chain works real life | Botpress, Make.com, Webhooks | [View →]([https://github.com/Bamidele123456](https://github.com/Bamidele123456/Blockchain.git)) |
 
 <br>
 
