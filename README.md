@@ -21,29 +21,29 @@
 ---
 
 ### 👨🏽‍💻 What I Build:
-* 🤖 **AI & Automation (My Edge):** Intelligent chatbots, LLM integrations (OpenAI/Gemini), and complex no-code/low-code workflows using n8n, Make.com, and Botpress.
-* ⚙️ **Backend Development:** Scalable microservices and real-time APIs with Node.js, Python (Django), and C# (.NET).
-* 🗄️ **Databases:** Normalized schemas, query optimization, and data pipelines using PostgreSQL, MySQL, and MongoDB.
-* ☁️ **DevOps & Cloud:** Dockerized deployments on AWS — production-ready and maintainable.
-* 🎨 **Frontend:** Clean, responsive UIs with React, Next.js, and Tailwind CSS when the project needs it.
+* **AI & Automation (My Edge):** Intelligent chatbots, LLM integrations (OpenAI/Gemini), and complex no-code/low-code workflows using n8n, Make.com, and Botpress.
+* **Backend Development:** Scalable microservices and real-time APIs with Node.js, Python (Django), and C# (.NET).
+* **Databases:** Normalized schemas, query optimization, and data pipelines using PostgreSQL, MySQL, and MongoDB.
+* **DevOps & Cloud:** Dockerized deployments on AWS — production-ready and maintainable.
+* **Frontend:** Clean, responsive UIs with React, Next.js, and Tailwind CSS when the project needs it.
 
 <br>
 
 ---
 
-### 🚀 Selected Projects:
+### Selected Projects:
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **E Commerce Website** | E commerce website | Javascript(React) HTML CSS | [View →]([https://github.com/Bamidele123456](https://github.com/Bamidele123456/E-commerce-site.git)) |
-| **Image Generation Website** | A webapp that generated images based on your prompts| HTML, Python, Open AI | [View →]([https://github.com/Bamidele123456](https://github.com/Bamidele123456/DALLE-chatbot.git)) |
-| **Blockchain** | A Test Blockchain where you can make transaction and see how thw chain works real life | Botpress, Make.com, Webhooks | [View →]([https://github.com/Bamidele123456](https://github.com/Bamidele123456/Blockchain.git)) |
+| **Zinter** | Co-engineered a collaborative logistics and dispatch platform enabling seamless movement and routing of goods with real-time operational tracking and AI-driven workflows. | JavaScript (Next.js), Tailwind CSS, ASP.NET | [View →](https://zinter.nl/en) |
+| **ZInter Partner** | Co-engineered the strategic partner portal for Zinter Logistics, streamlining partner onboarding, fleet integration, and operational collaboration for seamless logistics dispatch. | JavaScript (Next.js), Tailwind CSS, ASP.NET | [View →](https://partner.zinter.nl/) |
+| **Blockchain** | A test blockchain where you can make transactions and see how the chain works in real time | Botpress, Make.com, Webhooks | [View →](https://github.com/Bamidele123456/Blockchain.git) |
 
 <br>
 
 ---
 
-<h3 align="center">💻 Languages:</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -53,7 +53,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h3 align="center">🌐 Frontend & UI:</h3>
+<h3 align="center">Frontend & UI:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -61,7 +61,7 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-<h3 align="center">⚙️ Backend, Databases & Tools:</h3>
+<h3 align="center">Backend, Databases & Tools:</h3>
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
@@ -74,7 +74,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<h3 align="center">🤖 Automation & AI:</h3>
+<h3 align="center">Automation & AI:</h3>
 <p align="center">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EF4E45?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img alt="Make.com" src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
@@ -86,7 +86,7 @@
 
 ---
 
-### 📈 GitHub Activity:
+### GitHub Activity:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bamidele123456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -97,7 +97,7 @@
 
 ---
 
-<h3 align="center">📫 Let's Work Together</h3>
+<h3 align="center">Let's Work Together</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/precious-oriku" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bamidele123456" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
