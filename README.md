@@ -20,7 +20,7 @@
 
 ---
 
-### 👨🏽‍💻 What I Build:
+### What I Build:
 * **AI & Automation (My Edge):** Intelligent chatbots, LLM integrations (OpenAI/Gemini), and complex no-code/low-code workflows using n8n, Make.com, and Botpress.
 * **Backend Development:** Scalable microservices and real-time APIs with Node.js, Python (Django), and C# (.NET).
 * **Databases:** Normalized schemas, query optimization, and data pipelines using PostgreSQL, MySQL, and MongoDB.
@@ -35,9 +35,9 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Zinter** | Co-engineered a collaborative logistics and dispatch platform enabling seamless movement and routing of goods with real-time operational tracking and AI-driven workflows. | JavaScript (Next.js), Tailwind CSS, ASP.NET | [View →](https://zinter.nl/en) |
-| **ZInter Partner** | Co-engineered the strategic partner portal for Zinter Logistics, streamlining partner onboarding, fleet integration, and operational collaboration for seamless logistics dispatch. | JavaScript (Next.js), Tailwind CSS, ASP.NET | [View →](https://partner.zinter.nl/) |
-| **Blockchain** | A test blockchain where you can make transactions and see how the chain works in real time | Botpress, Make.com, Webhooks | [View →](https://github.com/Bamidele123456/Blockchain.git) |
+| **Zinter** | Co-engineered a collaborative logistics and dispatch platform enabling seamless movement and routing of goods with real-time operational tracking and AI-driven workflows. | JavaScript (Next.js), Tailwind CSS, ASP.NET | [View](https://zinter.nl/en) |
+| **ZInter Partner** | Co-engineered the strategic partner portal for Zinter Logistics, streamlining partner onboarding, fleet integration, and operational collaboration for seamless logistics dispatch. | JavaScript (Next.js), Tailwind CSS, ASP.NET | [View](https://partner.zinter.nl/) |
+| **Blockchain** | A test blockchain where you can make transactions and see how the chain works in real time | Botpress, Make.com, Webhooks | [View](https://github.com/Bamidele123456/Blockchain.git) |
 
 <br>
 
